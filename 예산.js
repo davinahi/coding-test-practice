@@ -11,4 +11,4 @@ function solution(d, budget) {
   return count;
 }
 let d = [2, 2, 3, 3];
-console.log(solution(d, 10)); //4
+console.log(solution(d, 10));
